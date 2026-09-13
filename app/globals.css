@@ -2,62 +2,28 @@
 @tailwind components;
 @tailwind utilities;
 
-/* ===== Dana Font (Headings) ===== */
-/* Based on official KidsMeals Typography Guide */
+/* ===== Vazirmatn Font (All weights - Headings & Body) ===== */
 @font-face {
-  font-family: "Dana";
-  src: url("/fonts/Dana-ExtraBold.woff2") format("woff2");
-  font-weight: 800;
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Thin.woff2") format("woff2");
+  font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "Dana";
-  src: url("/fonts/Dana-Bold.woff2") format("woff2");
-  font-weight: 700;
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "Dana";
-  src: url("/fonts/Dana-SemiBold.woff2") format("woff2");
-  font-weight: 600;
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Light.woff2") format("woff2");
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: "Dana";
-  src: url("/fonts/Dana-Medium.woff2") format("woff2");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* ===== IRANSans / Vazirmatn Font (Body Text) ===== */
-/* Typography guide specifies IRANSans with Vazirmatn fallback */
-@font-face {
-  font-family: "IRANSans";
-  src: url("/fonts/IRANSansX-Regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "IRANSans";
-  src: url("/fonts/IRANSansX-Medium.woff2") format("woff2");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "IRANSans";
-  src: url("/fonts/IRANSansX-Bold.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Vazirmatn as fallback */
 @font-face {
   font-family: "Vazirmatn";
   src: url("/fonts/Vazirmatn-Regular.woff2") format("woff2");
@@ -74,8 +40,29 @@
 }
 @font-face {
   font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Vazirmatn";
   src: url("/fonts/Vazirmatn-Bold.woff2") format("woff2");
   font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Black.woff2") format("woff2");
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
@@ -92,7 +79,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-dana;
+    @apply font-vazir;
   }
 }
 

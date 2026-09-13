@@ -38,9 +38,9 @@ const config: Config = {
         },
       },
       fontFamily: {
-        dana: ["Dana", "IRANSans", "Vazirmatn", "Tahoma", "sans-serif"],
-        body: ["IRANSans", "Vazirmatn", "Dana", "Tahoma", "sans-serif"],
-        vazir: ["Vazirmatn", "IRANSans", "Tahoma", "sans-serif"],
+        dana: ["Vazirmatn", "Tahoma", "sans-serif"],
+        body: ["Vazirmatn", "Tahoma", "sans-serif"],
+        vazir: ["Vazirmatn", "Tahoma", "sans-serif"],
       },
     },
   },
