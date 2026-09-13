@@ -31,7 +31,7 @@ export default function Hero() {
           </h1>
 
           <p className="mx-auto mt-5 max-w-xl text-base leading-8 text-brand-slate-dark sm:text-lg lg:mx-0">
-            KidsMeals راهی ساده‌تر برای تأمین غذای خوشمزه، گرم و متناسب با نیاز
+            کیدز میلز راهی ساده‌تر برای تأمین غذای خوشمزه، گرم و متناسب با نیاز
             کودکان و نوجوانان است؛ تا خیال والدین از تغذیه روزانه فرزندشان
             راحت‌تر باشد.
           </p>
@@ -47,7 +47,7 @@ export default function Hero() {
               href="#about"
               className="w-full rounded-full border-2 border-brand-green/30 bg-white px-8 py-3.5 text-center text-base font-bold text-brand-green-deep transition-all hover:border-brand-green hover:bg-brand-green/5 sm:w-auto"
             >
-              KidsMeals را بیشتر بشناسید
+              کیدز میلز را بیشتر بشناسید
             </Link>
           </div>
         </div>
@@ -62,11 +62,11 @@ export default function Hero() {
               <div className="text-center">
                 <img
                   src="/logo.svg"
-                  alt="KidsMeals"
+                  alt="کیدز میلز"
                   className="mx-auto h-32 w-32 opacity-30"
                 />
                 <p className="mt-4 text-sm font-medium text-brand-slate-dark opacity-50">
-                  تصویر واقعی کیسه و غذای KidsMeals
+                  تصویر واقعی کیسه و غذای کیدز میلز
                 </p>
               </div>
             </div>

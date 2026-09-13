@@ -51,7 +51,7 @@ export default function Solution() {
           ما این فاصله را پر می‌کنیم.
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-base leading-8 text-white/80 sm:text-lg">
-          KidsMeals ترکیبی از غذای گرم، توجه به گروه سنی، تغذیه هدفمند و
+          کیدز میلز ترکیبی از غذای گرم، توجه به گروه سنی، تغذیه هدفمند و
           راحتی والدین را در کنار هم ارائه می‌دهد.
         </p>
 

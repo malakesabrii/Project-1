@@ -11,7 +11,7 @@ export default function PartnershipCTA() {
             با ما در ارتباط باشید.
           </h2>
           <p className="mx-auto mt-5 max-w-2xl text-base leading-8 text-white/90 sm:text-lg">
-            برای همکاری، حمایت یا آشنایی بیشتر با KidsMeals، اطلاعاتتان را برای
+            برای همکاری، حمایت یا آشنایی بیشتر با کیدز میلز، اطلاعاتتان را برای
             ما ارسال کنید.
           </p>
           <Link

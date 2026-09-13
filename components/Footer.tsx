@@ -1,7 +1,7 @@
 const FOOTER_LINKS = [
-  { label: "درباره KidsMeals", href: "#about" },
+  { label: "درباره کیدز میلز", href: "#about" },
   { label: "خدمات", href: "#services" },
-  { label: "چرا KidsMeals؟", href: "#why" },
+  { label: "چرا کیدز میلز؟", href: "#why" },
   { label: "همکاری", href: "#partnership" },
 ];
 
@@ -73,7 +73,7 @@ export default function Footer() {
         {/* Bottom section */}
         <div className="mt-10 border-t border-brand-gray-mid pt-8 text-center">
           <p className="text-sm text-brand-slate-dark">
-            © {currentYear} KidsMeals. تمامی حقوق محفوظ است.
+            © {currentYear} کیدز میلز. تمامی حقوق محفوظ است.
           </p>
         </div>
       </div>

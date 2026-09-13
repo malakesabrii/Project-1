@@ -4,9 +4,9 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 
 const NAV_LINKS = [
-  { href: "#about", label: "KidsMeals چیست؟" },
+  { href: "#about", label: "کیدز میلز چیست؟" },
   { href: "#services", label: "خدمات" },
-  { href: "#why", label: "چرا KidsMeals؟" },
+  { href: "#why", label: "چرا کیدز میلز؟" },
   { href: "#partnership", label: "همکاری" },
 ];
 

@@ -46,7 +46,7 @@ export default function AgeGroups() {
             غذا برای هر سنی
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-8 text-brand-slate-dark sm:text-lg">
-            KidsMeals برای سه گروه سنی اصلی وعده‌های متناسب ارائه می‌دهد.
+            کیدز میلز برای سه گروه سنی اصلی وعده‌های متناسب ارائه می‌دهد.
           </p>
         </div>
 

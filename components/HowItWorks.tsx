@@ -28,7 +28,7 @@ export default function HowItWorks() {
             چگونه کار می‌کند؟
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-8 text-brand-slate-dark sm:text-lg">
-            فرآیند ساده KidsMeals در سه مرحله
+            فرآیند ساده کیدز میلز در سه مرحله
           </p>
         </div>
 

@@ -145,7 +145,7 @@ export default function ContactForm() {
           درخواست شما با موفقیت ثبت شد 🌱
         </h3>
         <p className="mt-4 text-base leading-8 text-brand-slate-dark">
-          تیم KidsMeals در اولین فرصت با شما تماس خواهد گرفت.
+          تیم کیدز میلز در اولین فرصت با شما تماس خواهد گرفت.
         </p>
       </div>
     );
@@ -262,7 +262,7 @@ export default function ContactForm() {
         {step === 2 && (
           <div className="space-y-5">
             <h3 className="text-xl font-bold text-brand-slate-darker sm:text-2xl">
-              برای چه نوع همکاری با KidsMeals علاقه‌مند هستید؟
+              برای چه نوع همکاری با کیدز میلز علاقه‌مند هستید؟
             </h3>
 
             <div className="space-y-3">

@@ -53,10 +53,10 @@ export default function Values() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-2xl font-extrabold text-brand-slate-darker sm:text-3xl">
-            KidsMeals چه ارزشی ایجاد می‌کند؟
+            کیدز میلز چه ارزشی ایجاد می‌کند؟
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-8 text-brand-slate-dark sm:text-lg">
-            چهار ارزش اصلی که KidsMeals برای کودکان و والدین ایجاد می‌کند.
+            چهار ارزش اصلی که کیدز میلز برای کودکان و والدین ایجاد می‌کند.
           </p>
         </div>
 
